@@ -1,0 +1,33 @@
+==================================================
+      PERSONAL POCKET CGPA CALCULATOR
+==================================================
+Enter number of courses: 3
+
+Course 1
+Course Title: csc202
+Course Unit: 3
+Grade (A-F): A
+
+Course 2
+Course Title: cyb204
+Course Unit: 3
+Grade (A-F): A
+
+Course 3
+Course Title: cyb 202
+Course Unit: 2
+Grade (A-F): A
+
+
+==================================================
+RESULT
+==================================================
+Total Units: 8
+Total Grade Points: 40
+CGPA: 5.00
+Class of Degree: FIRST CLASS
+==================================================
+Thank you for using Personal Pocket CGPA Calculator
+
+
+** Process exited - Return Code: 0 **
